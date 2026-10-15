@@ -29,6 +29,6 @@ Web developer in progress, learning AI and modern web technologies. I'm building
 ## Get in Touch
 
 - 📧 [mahakgoyat01@gmail.com](mailto:mahakgoyat01@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mahak-goyat-579284422)
+ - 💼 [LinkedIn](https://www.linkedin.com/in/mahak-goyat)
 
 ⭐ Always building something new and learning along the way.
