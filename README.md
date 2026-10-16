@@ -29,6 +29,17 @@ Web developer in progress, learning AI and modern web technologies. I'm building
 ## Get in Touch
 
 - 📧 [mahakgoyat01@gmail.com](mailto:mahakgoyat01@gmail.com)
- - 💼 [LinkedIn](https://www.linkedin.com/in/mahak-goyat)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahak-goyat)
+
+## Find me elsewhere
+
+| Platform | Link |
+| --- | --- |
+| Dev.to | [dev.to/mahakgoyat](https://dev.to/mahakgoyat) |
+| Medium | [medium.com/@mahakgoyat](https://medium.com/@mahakgoyat) |
+| Hashnode | [hashnode.com/@mahakgoyat](https://hashnode.com/@mahakgoyat) |
+| CodePen | [codepen.io/mahakgoyat](https://codepen.io/mahakgoyat) |
+| Behance | [behance.net/mahakgoyat](https://www.behance.net/mahakgoyat) |
+| Dribbble | [dribbble.com/mahakgoyat](https://dribbble.com/mahakgoyat) |
 
 ⭐ Always building something new and learning along the way.
